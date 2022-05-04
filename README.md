@@ -32,17 +32,17 @@ Below are some illustrations to help inspire your implementation.
 
 Artist view [Desktop]
 
-![](https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/artist-web-view.png "Artist desktop")
+![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-web-view.png "Artist desktop")
 
 Artist view [Mobile]
 
-![](https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/artist-mobile-view.png "Artist mobile")
+![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-mobile-view.png "Artist mobile")
 
 
 Artist details view [Desktop]
 
-![](https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/artist-details-web-view.png "Artist details desktop")
+![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-details-web-view.png "Artist details desktop")
 
 Artist details view [Mobile]
 
-![](https://raw.githubusercontent.com/DVT/musicdb-app-angular/master/wireframes/artist-details-mobile.PNG "Artist details mobile")
+![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-details-mobile.PNG "Artist details mobile")
