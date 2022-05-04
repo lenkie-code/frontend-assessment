@@ -1,4 +1,4 @@
-Deezer is an internet-based music streaming service.  You are required to implement an Angular app to explore its database.
+Deezer is an internet-based music streaming service. You are required to implement an React app to explore its database.
 
 
 - Users should be able to search for artists.  For every artist found show the artist's picture and the number of fans they have.  On bigger screens, with more available space, also include the total number of albums.
@@ -32,17 +32,17 @@ Below are some illustrations to help inspire your implementation.
 
 Artist view [Desktop]
 
-![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-web-view.png "Artist desktop")
+![](https://raw.githubusercontent.com/lenkie-code/frontend-assessment/master/wireframes/artist-web-view.png "Artist desktop")
 
 Artist view [Mobile]
 
-![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-mobile-view.png "Artist mobile")
+![](https://raw.githubusercontent.com/lenkie-code/frontend-assessment/master/wireframes/artist-mobile-view.png "Artist mobile")
 
 
 Artist details view [Desktop]
 
-![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-details-web-view.png "Artist details desktop")
+![](https://raw.githubusercontent.com/lenkie-code/frontend-assessment/master/wireframes/artist-details-web-view.png "Artist details desktop")
 
 Artist details view [Mobile]
 
-![](https://raw.githubusercontent.com/lenkie-code/musicdb-app-angular/master/wireframes/artist-details-mobile.PNG "Artist details mobile")
+![](https://raw.githubusercontent.com/lenkie-code/frontend-assessment/master/wireframes/artist-details-mobile.PNG "Artist details mobile")
