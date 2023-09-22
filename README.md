@@ -25,7 +25,18 @@ Deezer API Reference
 
 https://developers.deezer.com/api
 
-EXAMPLE
+Notes
+--
+Although the assessment does not provide a strict on the extent of implementation, candidates that stand out for this role are the ones who:
+
+- Showcase their experience on how to build frontend application to be deployed by customers in a production environment.
+- Showcase their understanding of DevOps and how changes to code are shipped to production environments
+- Showcase their understanding of how web applications can be tested
+- Showcase their understanding of how to identify & monitor bugs and errors in their web applications
+- Showcase their understanding of how to use analytics tools measure how customers use their application in the production environment
+  
+
+SCREENSHOTS
 --
 
 Below are some illustrations to help inspire your implementation.
@@ -47,13 +58,3 @@ Artist details view [Mobile]
 
 ![](https://raw.githubusercontent.com/lenkie-code/frontend-assessment/master/wireframes/artist-details-mobile.PNG "Artist details mobile")
 
-
-Notes
---
-Although the assessment does not provide a strict on the extent of implementation, candidates that stand out for this role are the ones who:
-
-- Showcase their experience on how to build frontend application to be deployed by customers in a production environment.
-- Showcase their understanding of DevOps and how changes to code are shipped to production environments
-- Showcase their understanding of how web applications can be tested
-- Showcase their understanding of how to identify & monitor bugs and errors in their web applications
-- Showcase their understanding of how to use analytics tools measure how customers use their application in the production environment
