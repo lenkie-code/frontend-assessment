@@ -1,4 +1,4 @@
-Deezer is an internet-based music streaming service. You are required to implement an frontent app to explore its database.
+Deezer is an internet-based music streaming service. You are required to implement an frontend app to explore its database.
 
 
 - Users should be able to search for artists.  For every artist found show the artist's picture and the number of fans they have.  On bigger screens, with more available space, also include the total number of albums.
